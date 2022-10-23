@@ -7,5 +7,5 @@
   <a href="https://t.me/it_kodletov"> 
   <img src="https://img.shields.io/badge/My blog-white?style=for-the-badge&logo=telegram&logoColor=white" alt="My blog Badge"/>
     <a href="https://t.me/vlad_kodletov"> 
-  <img src="https://img.shields.io/badge/Telegram message-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="My blog Badge"/>
+  <img src="https://img.shields.io/badge/Message me-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="My blog Badge"/>
 </div>
