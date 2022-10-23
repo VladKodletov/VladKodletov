@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.gifer.com/6DMO.gif" width="100"/>
+</div>
+
 
 <!--
 **VladKodletov/VladKodletov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
