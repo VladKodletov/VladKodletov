@@ -5,7 +5,7 @@
   
 <a href="https://www.linkedin.com/in/vladimir-pletov/">  
   <img src="https://img.shields.io/badge/My LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <a href="https://t.me/vlad_kodletov"> 
+    <a href="https://t.me/pushistyi_kod"> 
   <img src="https://img.shields.io/badge/Message me-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="My blog Badge"/>
      </div>
     <div id="badges" align="center">
